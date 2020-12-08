@@ -1,0 +1,35 @@
+--- THE DISCORDJS GUIDE FOR ABSOLUTE BEGGINERS --- COMMANDS AND LINKS
+
+
+
+--SKIP THIS STEP IF YOU ALREADY HAVE NODEJS INSTALLED ON YOUR COMPUTER--
+#first of all you will need to download nodejs what this does is let you run javascript out of your browser
+#Download link: https://nodejs.org/en/             it is recommended to download the lts version
+
+--EXTRA STEP--
+#after downloading nodejs you can check the version you installed by entering your command prompt and executing this command without the >
+
+
+>  node --v
+
+#check the version of nodejs you have installed on your computer
+
+--IMPORTANT--
+#after having nodejs ready to run on your pc you can create your package by running the following command and filling the information
+#it is recommended to leave the entry point as "index.js"
+
+>  npm init
+
+#create your package file
+
+
+#after creating your package you will want to install the discordjs library and you can do this by running the following command
+
+
+>  npm install discord.js
+
+#download the discord.js library
+
+
+
+#Very good youve just setup everything you need to make a very basic bot for discord
