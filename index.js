@@ -18,10 +18,10 @@ for(const file of commandFiles){
 }
 
 const activities_list = [
-    "with fire", 
-    "with a rocket engine",
-    "kerbal space program", 
-    "rocket simulator"
+    "c?info", 
+    "c?bug",
+    "Human simulator", 
+    "Dog simulator"
     ]; // creates an arraylist containing phrases you want your bot to switch through.
     
     client.on('ready', () => {
