@@ -93,6 +93,6 @@ client.on('message', message =>{
 
 });
  
-client.login('NzgxNTMyMDg1MTU5OTg1MTUy.X7_AeQ.BC7aFRZ6qibMO6gIN3YrHbpuEUs');
+client.login('YourTokenHere');
 
 //https://discord.com/oauth2/authorize?client_id=781532085159985152&permissions=8&scope=bot
